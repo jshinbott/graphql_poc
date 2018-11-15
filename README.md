@@ -2,9 +2,11 @@
 
 1. run ```npm i && npm start```
 
-2. visit localhost:3001/gql
+2. visit ```localhost:3001/gql```
 
-3. have some fun!
+3. take a look at `server.js` and read through some of the documentation listed in the comments
+
+4. have some fun!
 
 #### things to try: 
 
