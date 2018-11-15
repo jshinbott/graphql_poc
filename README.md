@@ -1,6 +1,6 @@
 # GraphQL exploration
 
-1. run ```npm start```
+1. run ```npm i && npm start```
 
 2. visit localhost:3001/gql
 
